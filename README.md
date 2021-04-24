@@ -1,4 +1,4 @@
-# 这里是可供原版使用的题库，脚本请↓
+# 这里是可供原版使用的四史答题题库，脚本请↓
 https://github.com/Upsetin/ChinaUniOnline
 
 {"id": "5f71e934bcdbf3a8c3ba51d5", "name": "英雄篇"}
